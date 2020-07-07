@@ -1,6 +1,6 @@
 ## 从零开始做一个网站
 
-You can use the [editor on GitHub](https://github.com/MissO0/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+2020-7-7建立
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
